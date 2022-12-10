@@ -1,0 +1,4 @@
+env
+management/migrations
+management/__pycache__
+db.sqlite3
